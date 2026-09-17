@@ -1,0 +1,13 @@
+{
+  "processName": "ollama",
+  "executablePath": "ollama.exe",
+  "arguments": "serve",
+  "workingDirectory": "",
+  "startHidden": true,
+  "checkIntervalSeconds": 5,
+  "restartDelaySeconds": 5,
+  "maxRestartsPerHour": 12,
+  "logFileName": "guardian.log",
+  "logMaxBytes": 1048576,
+  "logTailLines": 1000
+}

@@ -1,0 +1,4 @@
+config.json
+guardian.log
+*.log
+*.tmp
